@@ -1,5 +1,11 @@
-- 👋 Hi, I’m Dorjiam
-- 👀 I’m interested in Game and Web Development
-- 🌱 I’m currently learning Web Development Technologies
-- 📫 You can reach me out using my email, dorjiamNotKnown@gmail.com
+# Hi, I'm Dorjiam
 
+## Interested in:
+- **Web** Development
+- **Game** Development
+
+## Currently Learning:
+- **Web** Development Technologies
+
+## Contact me:
+- You can reach me out using my email, `dorjiamNotKnown@gmail.com`
