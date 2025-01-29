@@ -5,7 +5,7 @@
 - **Game** Development
 
 ## Currently Learning:
-- **Web** Development Technologies
+- Minecraft **Modding**
 
 ## Contact me:
 - You can reach me out using my email, `dorjiamNotKnown@gmail.com`
